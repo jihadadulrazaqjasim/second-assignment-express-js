@@ -1,1 +1,3 @@
-# second-assignment-express-js
+# Second-assignment using expressJS in Nodejs Course NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
+
+## By: Maximilian Schwarzmüller
